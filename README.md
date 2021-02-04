@@ -48,3 +48,12 @@ Status: **Stable**
 ### Untested so far:
 · 1Gbit Ethernet && 2.5Gbit Ethernet  
 · AppleTV
+
+---
+
+### Disclaimer:
+If you'll use this configuration, I highly recommend that you do follow Dortania's guide and make your own setup. Yes, I know it's pretty long but give it a read and you'll end up with an almost-perfect Hackintosh. 
+
+If you still want to use this config, make sure to replace the `*GENERATE*` entries in the `config.plist`. You can generate your own serial number with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS). 
+
+
