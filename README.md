@@ -43,10 +43,11 @@ Status: **Stable**
 - [x] DRM (Netflix)
 - [x] Sleep && Wake
 - [x] Shutdown && Restart
-- [x] USB
+- [x] USB  
+- [x] 1Gbit Ethernet 
 
 ### Untested so far:
-· 1Gbit Ethernet && 2.5Gbit Ethernet  
+· 2.5Gbit Ethernet  
 · AppleTV
 
 ---
